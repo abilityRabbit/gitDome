@@ -2,6 +2,7 @@
   <nav>
     你好啊
     我是b职员
+    我是c职员
   </nav>
   <!-- <router-view/> -->
 </template>
